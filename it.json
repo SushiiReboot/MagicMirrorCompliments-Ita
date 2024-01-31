@@ -1,0 +1,33 @@
+{
+        "anytime" : [
+                "Ciao rossina!",
+                "Benvenuta rossina!",
+                "Ciao!",
+                "Buongiorno!",
+                "Hola chiquita!",
+                "Oddio la rossina è tornata",
+                "Bentornata."
+        ],
+        "morning" : [
+                "Buongiorno Gigi!",
+                "Buongiorno Ginevra!",
+                "Buongiorno rossina <3",
+                "Buondì <3",
+                "Buonjour rossine!",
+                "Stai dormendo dentro, lo so.",
+                "Purina hai sonno?"
+        ],
+        "afternoon" : [
+                "Bentornata!",
+                "Bentornata Gigi!",
+                "Bentornata Topogigi!",
+                "Com'è andata a scuola?"
+        ],
+        "evening" : [
+                "Buonasera Gigi!",
+                "Buonasera Topogigi!",
+                "Buonaseeeera",
+                "Buonasera!",
+                "MANGIA QUALCOSA E BEVI SOPRATUTTO"
+        ]
+}
